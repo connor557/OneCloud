@@ -1,8 +1,11 @@
+ This project is no longer owned by Amazilla Corporation. They are a dead company.
+ Copyright 2015 iSurvive Media Ltd. This is FOSS software!
+ 
  __        ___  __        __        __  
 /  \ |\ | |__  /  ` |    /  \ |  | |  \ http://onecloud.amazilla.org
 \__/ | \| |___ \__, |___ \__/ \__/ |__/ help@amazilla.org
                                         
-OneCloud is released under the GNU Affero General Public License Version 3 (AGPL3)
+OneCloud is released under the GNU Lesser General Public License Version 3 (LGPL3)
  -> provided with this release in license.txt
  -> or via web at www.gnu.org/licenses/agpl-3.0.txt
 
